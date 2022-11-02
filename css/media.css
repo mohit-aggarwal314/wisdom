@@ -1,0 +1,654 @@
+
+@media(max-width: 1399.98px){
+  dropdown-item {
+      display: block;
+      width: 100%;
+      padding: 0.25rem 1.5rem;
+      clear: both;
+      color: #ffffff;
+      text-align: inherit;
+      font-size: 15px;
+      font-weight: 400;
+      white-space: nowrap;
+      background-color: #1b2b4fe3;
+  }
+
+  .boxborder {
+    border: 2px solid #000;
+    padding: 20px 21px;
+    box-sizing: border-box;
+    height: 303px;
+}
+img.acadmeprog {
+    width: 100%;
+}
+}
+
+@media(max-width: 1199.98px){
+
+  section.topnav {
+      padding: 9px 0px 9px;
+      background: #c5a553;
+      box-sizing: border-box;
+  }
+  h6.topnavs {
+      color: #ffffff;
+      float: right;
+      margin-right: -25px;
+      font-weight: 400;
+      cursor: pointer;
+  }
+  .navbar-light .navbar-nav .show>.nav-link:hover {
+    color: rgb(255 255 255);
+    font-weight: bold;
+    font-size: 11px;
+}
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-size: 11px;
+    color: #ffffff;
+    text-align: inherit;
+    font-weight: 400;
+    white-space: nowrap;
+    background-color: #1b2b4fe3;
+}
+
+.circleiconq {
+    text-align: center;
+    background: #f3f3f3;
+    padding: 41px 0px;
+    box-sizing: border-box;
+    width: 290px;
+}
+.circleiconqq {
+    text-align: center;
+    background: #f3f3f3;
+    padding: 41px 0px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    height: 240px;
+}
+iframe.iframes {
+    width: 100%;
+}
+textarea.textareasa {
+    width: 100%;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(255 255 255);
+    font-weight: bold;
+    background: #c5a553;
+    font-size: 11px;
+    padding-left: 10px;
+}
+a.dropdown-item:hover {
+    font-size: 11px;
+}
+
+.dropdown-item:hover {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    font-size: 11px;
+    clear: both;
+    color: #ffffff;
+    text-align: inherit;
+    font-weight: 400;
+    white-space: nowrap;
+    background-color: #1b2b4fe3;
+}
+  .navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+    font-size: 10px;
+}
+h2.encroll {
+    font-size: 27px;
+    font-weight: 500;
+    color: #2e364b;
+}
+section.careiercounselling {
+    background: #ffffff;
+    padding: 20px 0px;
+    box-sizing: border-box;
+}
+p.parag {
+    margin-top: 15px;
+    font-size: 13px;
+    padding: 0px 10px;
+}
+h2.encrolfl {
+    color: #2e364b;
+    font-size: 27px;
+}
+button.btn.btn-goldenssssd {
+    color: #ffffff;
+    font-weight: 500;
+    background: #484746;
+    padding: 7px 50px;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+button.btn.btn-golden {
+    color: white;
+    font-weight: 500;
+    background: #2e364b;
+    border-radius: 50px;
+    padding: 6px 21px;
+}
+h6.sectopnav {
+    color: #ffffff;
+    font-size: 13px;
+    margin-left: 30px;
+    font-weight: 400;
+}
+/* aboutus */
+h1.wisdomabout {
+    padding: 50px 0px 10px;
+    font-size: 32px;
+    font-weight: 600;
+}
+p.aboutwisdompara {
+    text-align: justify;
+    font-size: 14px;
+    color: #676161;
+}
+img.aboutfirstimg {
+    width: 96%;
+}
+.boxborder {
+    border: 2px solid #000;
+    padding: 20px 21px;
+    box-sizing: border-box;
+    height: 403px;
+}
+h1.activitylog {
+    font-family: revert;
+    font-weight: 400;
+    margin-top: 0px;
+}
+h4.topheading {
+    color: #767677;
+    text-align: center;
+    font-size: 22.5px;
+    font-weight: 700;
+}
+
+/* emd about us */
+}
+@media(max-width: 991.98px){
+  h6.sectopnav {
+      color: #ffffff;
+      font-size: 13px;
+      text-align: center;
+      margin-left: 30px;
+      font-weight: 400;
+  }
+  h2.encroll {
+    font-size: 19px;
+    font-weight: 500;
+    color: #2e364b;
+}
+h5.foooterlink.mt-5 {
+    margin: 16px 0px !important;
+}
+p.subparaa {
+    margin-top: -39px;
+}
+.circleiconq {
+    text-align: center;
+    background: #f3f3f3;
+    padding: 41px 0px;
+    box-sizing: border-box;
+    width: 210px;
+}
+span.callnumber {
+    padding-top: 20px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+h5.headoffice {
+    font-size: 14px;
+    font-weight: 400;
+}
+span.callnumberr {
+    font-size: 13px;
+    text-align: center;
+}
+.navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+
+}
+.form-containerss {
+    background: white;
+    margin-top: 20px;
+    padding: 30px 21px;
+    box-sizing: border-box;
+}
+.cardincont {
+    text-align: center;
+    padding: 15px 15px;
+    background: #f7f7f7;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px 3px #ccc;
+    height: 460px;
+    border-radius: 5px;
+}
+button.navbar-toggler {
+    position: relative;
+    margin-left: auto;
+}
+.col-12.hovimggg {
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    color: #fff;
+    background: linear-gradient(
+90deg, #C5A553 0%, #94772E 100%);
+    text-align: center;
+}
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-size: 10px;
+    color: #ffffff;
+    text-align: inherit;
+    font-weight: 400;
+    white-space: nowrap;
+    background-color: #1b2b4fe3;
+}
+section.complex {
+    padding: 20px 0px;
+    box-sizing: border-box;
+    background: #f7f7f7;
+}
+button.btn.btn-goldensss {
+    color: #fff;
+    font-weight: 500;
+    background: #c5a553;
+    padding: 6px 30px;
+    font-size: 16px;
+    border-radius: 50px;
+}
+button.btn.btn-golden {
+    color: white;
+    font-weight: 400;
+    background: #2e364b;
+    border-radius: 50px;
+    padding: 6px 12px;
+}
+
+div#wisdowschoolc\ {
+    padding: 20px 0px 0px 30px;
+    box-sizing: border-box;
+}
+section.aboutwisdom {
+    padding: 0px;
+    box-sizing: border-box;
+}
+.boxx {
+    background: #2e364b;
+    padding: 33px 10px;
+    box-sizing: border-box;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height: 170px;
+}
+.boxxx {
+    background: #c5a553;
+    padding: 33px 10px;
+    box-sizing: border-box;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    height: 170px;
+}
+button.navbar-toggler {
+    background: white;
+}
+h6.topnavs {
+    color: #ffffff;
+    margin-right: 33%;
+    font-weight: 400;
+    cursor: pointer;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(255 255 255);
+    font-weight: bold;
+    background: #c5a553;
+    font-size: 11px;
+    padding-left: 10px;
+}
+.social-icon {
+    float: right;
+    margin-right: 41%;
+}
+h2.encrolfl {
+    color: #2e364b;
+    font-size: 20px;
+    margin-top: 8px;
+}
+.navbar-light .navbar-brand {
+    float: left;
+    margin-right: auto;
+}
+button.btn.btn-goldenssssd {
+    color: #ffffff;
+    font-weight: 500;
+    background: #484746;
+    padding: 7px 31px;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+/* aboutus start */
+img.aboutfirstimg {
+    width: 100%;
+}
+p.aboutwisdompara {
+    text-align: justify;
+    font-size: 21px;
+    color: #676161;
+}
+h4.imgbottext {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+h1.activitylog {
+    font-family: revert;
+    font-weight: 400;
+    margin-top: 20px;
+}
+p.counsellingtext {
+    font-size: 15px;
+    text-align: justify;
+    font-weight: 400;
+    color: #6f6d6d;
+    margin-top: -5px;
+}
+/* end aboutus */
+}
+
+
+@media(max-width:767.98px){
+  .main-timeline .timeline{
+      width: 100%;
+      margin: 0 0 20px;
+  }
+  button.btn.btn-primary.enquiry {
+      font-size: 15px;
+      color: #fff;
+      font-weight: 500;
+      background: #c5a553;
+      border-radius: 70px;
+      border: 0px;
+      width: 100%;
+  }
+  section.topnav {
+      padding: 12px 0px 12px;
+      background: #c5a553;
+      box-sizing: border-box;
+  }
+  span.callnumberr {
+      font-size: 23px;
+      text-align: center;
+  }
+  h5.headoffice {
+    font-size: 28px;
+    font-weight: 400;
+}
+.circleiconq {
+    text-align: center;
+    background: #f3f3f3;
+    padding: 41px 0px;
+    box-sizing: border-box;
+    width: auto;
+    margin: 30px 0px 0px;
+}
+span.callnumber {
+    padding-top: 20px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.col-md-4.float-left.order-2 {
+    display: contents;
+}
+section.aboutwisdoms {
+    padding: 0px;
+    box-sizing: border-box;
+}
+.col-12.hovimggg {
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    color: #fff;
+    background: linear-gradient(
+90deg, #C5A553 0%, #94772E 100%);
+    text-align: center;
+    margin: 0px;
+}
+.col-12.hovimgg {
+    width: 400px;
+    margin-left: 18px;
+    height: 248px;
+    border-radius: 10px;
+    background: linear-gradient(
+90deg, #2e364b 0%, #2f4379 100%);
+    color: #fff;
+    margin: 0px;
+    text-align: center;
+}
+div#wisdowschoolc\ {
+    padding: 20px 0px 0px 0px;
+    box-sizing: border-box;
+}
+
+.buttonssss {
+    width: 100%;
+    float: right;
+}
+
+p.subparaa {
+  float: left;
+  margin-top: 0px;
+}
+
+/* aboutstart */
+h4.imgbottext {
+    font-size: 23px;
+    font-weight: 400;
+}
+/* endaboutus */
+.boxborder {
+    border: 2px solid #000;
+    padding: 20px 21px;
+    box-sizing: border-box;
+    height: 327px;
+}
+h4.topheading {
+    color: #767677;
+    font-size: 20.5px;
+    text-align: center;
+    font-weight: 700;
+}
+.cardincont {
+    text-align: center;
+    padding: 15px 15px;
+    background: #f7f7f7;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px 3px #ccc;
+    height: 460px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+section.wisdomgroup {
+    padding: 30px 0px 0px;
+    box-sizing: border-box;
+}
+
+
+}
+@media(max-width:575.98px){
+  .main-timeline .timeline{ margin: 0 0 40px; }
+  .main-timeline .timeline-content,
+  .main-timeline .timeline:nth-child(even) .timeline-content{
+      text-align: center;
+      padding: 135px 30px 20px;
+  }
+  .main-timeline .timeline-icon,
+  .main-timeline .timeline:nth-child(even) .timeline-icon{
+      transform: translateY(0) translateX(-50%);
+      left: 50%;
+      right: auto;
+      top: 0;
+  }
+  h6.topnavs {
+      color: #ffffff;
+      margin-right: 28%;
+      font-weight: 400;
+      cursor: pointer;
+  }
+  .wisdomschool {
+    text-align: justify;
+    font-weight: 500;
+    padding: 0px 10px;
+    box-sizing: border-box;
+}
+img.aboutusimgs {
+    float: right;
+    width: 83%;
+}
+button.btn.btn-dark.sss {
+    margin-bottom: 26px;
+}
+  p.subparaa {
+    margin-top: 0px;
+}
+.circleiconq {
+    text-align: center;
+    background: #f3f3f3;
+    padding: 41px 0px;
+    box-sizing: border-box;
+    width: auto;
+    margin: 30px 0px 0px;
+}
+
+span.callnumberr {
+    font-size: 17px;
+    text-align: center;
+}
+
+h5.headoffice {
+    font-size: 21px;
+    font-weight: 400;
+}
+.boxx {
+    background: #2e364b;
+    padding: 33px 10px;
+    box-sizing: border-box;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height: 186px;
+}
+
+.boxborder {
+    border: 2px solid #000;
+    padding: 20px 21px;
+    box-sizing: border-box;
+    height: 491px;
+}
+h4.topheading {
+    color: #767677;
+    font-size: 19.5px;
+    font-weight: 700;
+    text-align: center;
+    padding-left: 10px;
+}
+p.topparagraph {
+    padding: 0px 10px;
+    padding-top: 10px;
+    font-size: 18px;
+    color: #5f5d5d;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 31px;
+}
+.cardincont {
+    text-align: center;
+    padding: 15px 15px;
+    background: #f7f7f7;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 8px 3px #ccc;
+    height: 387px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+section.wisdomgroup {
+    padding:20px;
+    box-sizing: border-box;
+}
+
+}
+
+@media(max-width:350.98px){
+
+  img.logo {
+      width: 159px;
+      margin-top: 4px;
+  }
+  .navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+
+    font-size: 11px;
+}
+
+h6.topnavs {
+    color: #ffffff;
+    margin-right: 8px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.social-icon {
+    float: right;
+    margin-right: 68px;
+}
+.boxx {
+    background: #2e364b;
+    padding: 33px 10px;
+    box-sizing: border-box;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    height: 251px;
+}
+.boxxx {
+    background: #c5a553;
+    padding: 33px 10px;
+    box-sizing: border-box;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    height: 251px;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+h1.thewisdomschool {
+    font-size: 24px;
+    font-weight: 400;
+    color: #373b3b;
+}
+}
