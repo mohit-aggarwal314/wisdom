@@ -34,7 +34,7 @@ include 'header.php';
         </ul>
       </div>
       <div class="col-lg-6">
-        <img src="img/socity2.jpg" class="acadmeprog" alt="">
+        <img src="img/cies.jpg" class="acadmeprog" alt="">
       </div>
     </div>
   </div>

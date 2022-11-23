@@ -13,7 +13,7 @@ include 'header.php';
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
-        <img src="img/visionimg.png" class="acadmeprogg" alt="">
+        <img src="img/vision.jpg" class="acadmeprogg" alt="">
       </div>
       <div class="col-lg-6 bordersg mt-5 ">
         <ul class="quals">

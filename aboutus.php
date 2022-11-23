@@ -12,7 +12,8 @@ include 'header.php';
   <div class="container">
     <div class="row">
       <div class="col-lg-6 order-1">
-        <img src="img/about1.png" class="aboutfirstimg" alt="">
+        <img src="img/about1.jpg" class="aboutfirstimg" alt="" style="
+    margin-top: 60px;">
       </div>
       <div class="col-lg-6 order-2">
         <h1 class="wisdomabout">The Wisdom School</h1>
@@ -32,7 +33,7 @@ include 'header.php';
         <p class="aboutwisdompara">With the vision of providing world class education, that prepares the students for global challenges as well as opportunities. <br>Administrator and academician Mr. Ramnik Singh has established relationships with multiple educational organizations across the globe. These collaborations allow us accessibility as well as implementation of global educational standards and latest educational methods. The Wisdom School of Academics and Sports is proudly associated with AMLE – <strong>Association for Middle Level Education </strong>(2550 Corporate Exchange Dr., Suite 324, Columbus- OH - 43231), <strong>Comparative and International Education Society </strong> (CIES, Pittsburgh, USA) as well as with the <strong>American Forest Kindergarten Association, </strong>(Washington, USA). <br><br><strong>The Wisdom School of Academics and Sports </strong>also feel privileged to be associated with the <strong>Golden Girl of India, P.T Usha.</strong> The P.T Usha School of Athletics is an organization dedicated to promotion of Sports at all levels, with the State-of-art facilities in athletic skills development.</p>
       </div>
       <div class="col-lg-6 order-2">
-        <img src="img/about2.png" class="aboutfirstimg" alt="">
+        <img src="img/about2.jpg" class="aboutfirstimg" alt="">
       </div>
     </div>
   </div>

@@ -17,7 +17,7 @@ include 'header.php';
           At The Wisdom School we strive to give a golden moment to the students from the time of their admission till they leave the school. Students can find their own value on campus, connect with other students and teachers, get involved in different student activities, can avail various leadership opportunities, can nurture themselves in sports and athletic activities, can participate in various competitions etc.</p>
       </div>
       <div class="col-lg-6">
-        <img src="img/studentlife.jpg" class="studentlifeimg" alt="">
+        <img src="img/life.jpg" class="studentlifeimg" alt="">
       </div>
     </div>
   </div>

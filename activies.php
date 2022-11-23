@@ -12,7 +12,7 @@ include 'header.php';
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
-        <img src="img/activity1.jpg" class="activityimg" alt="">
+        <img src="img/activity.jpg" class="activityimg" alt="">
       </div>
       <div class="col-lg-6 middletext">
         <h1 class="activitylog">Activity Wing</h1>

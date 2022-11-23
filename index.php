@@ -3,6 +3,7 @@ include 'header.php';
 ?>
 
 </section>
+
 <!-- end navbar -->
 <section class="slidertop">
   <div class="col-md-12 order-1 float-right sliderss">
@@ -147,7 +148,9 @@ include 'header.php';
         </div>
       </div>
       <div class="col-lg-6 order-2">
-        <img src="img/backaboutus.jpg" class="aboutusimg" alt="">
+      <video  autoplay muted loop width="500px" >
+    <source src="img/Admission.mp4" type="video/mp4">
+  </video>
       </div>
     </div>
   </div>
@@ -173,7 +176,7 @@ include 'header.php';
   <div class="container">
     <div class="row py-1 mt-5">
       <div class="col-lg-6 ">
-        <img src="img/indeximg.png" class="aboutusimgs " alt="">
+        <img src="img/i1.jpg" class="aboutusimgs " alt="">
       </div>
       <div class="col-lg-6 ">
         <h3 class="counseling ">Career Counselling</h3>
@@ -202,12 +205,12 @@ include 'header.php';
         <button class="btn btn-dark sss"><a href="academic-administration.php" class="learmorebuttons">Learn More</a></button>
       </div>
       <div class="col-lg-6 order-2">
-        <img src="img/indeximg2.png" class="aboutusimgss" alt="">
+        <img src="img/i3.jpg" class="aboutusimgss" alt="">
       </div>
     </div>
     <div class="row py-1 mt-5">
       <div class="col-lg-6 ">
-        <img src="img/indeximg3.png" class="aboutusimgs" alt="">
+        <img src="img/i2.jpg" class="aboutusimgs" alt="">
       </div>
       <div class="col-lg-6 ">
         <h3 class="counselingss mt-5">Future leaders of Tomorrow</h3>

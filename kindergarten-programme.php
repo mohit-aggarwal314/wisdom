@@ -26,7 +26,7 @@ include 'header.php';
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
-        <img src="img/activity12.jpg" class="activityimg" alt="">
+        <img src="img/activity5.jpg" class="activityimg" alt="">
       </div>
       <div class="col-lg-6 middletext ">
         <h2 class="activitylog ">Activity Wing</h2>
@@ -47,7 +47,7 @@ include 'header.php';
         <p class="activitytype">In guiding young minds to tread the path of curiosity, psychological, motor and communication skills in your child Wisdom offers secure strong Primary School program. Primary School offers smart and exceptional quality education aiming to nurture higher order thinking skills through holistic development for children 6 to 12. We set a platform for young learners to blossom with flying colors in chosen areas of excellence with respect to the global community.<br><br></p>
       </div>
       <div class="col-lg-6">
-        <img src="img/activity13.jpg" class="activityimg" alt="">
+        <img src="img/kg.jpg" class="activityimg" alt="">
       </div>
     </div>
   </div>

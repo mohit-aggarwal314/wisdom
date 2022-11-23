@@ -32,7 +32,7 @@ include 'header.php';
         </ul>
       </div>
       <div class="col-lg-6">
-        <img src="img/amer2.jpg" class="acadmeprog" alt="">
+        <img src="img/afka.jpg" class="acadmeprog" alt="">
       </div>
     </div>
   </div>

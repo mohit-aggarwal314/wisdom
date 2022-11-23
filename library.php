@@ -20,7 +20,7 @@ include 'header.php';
         </ul>
       </div>
       <div class="col-lg-6">
-        <img src="img/librar.png" class="acadmeprog" alt="">
+        <img src="img/lib.jpeg" class="acadmeprog" alt="">
       </div>
     </div>
   </div>

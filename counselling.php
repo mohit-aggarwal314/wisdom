@@ -12,7 +12,7 @@ include 'header.php';
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <img src="img/counsellingimg.jpg" class="counselingimg" alt="">
+        <img src="img/counsel.jpg" class="counselingimg" alt="">
       </div>
       <div class="col-md-6">
         <p class="counsellingtext">Students of The Wisdom School and their parents are provided an access to comprehensive online and offline career counselling sessions. These sessions allow them to monitor their academic and extra-curricular performance and potential, and also discuss feedback and potential milestones with the team of our highly proficient counsellors. With the help of our counsellors, each student celebrates the journey from The Wisdom School to a world full of wonderful possibilities.</p>

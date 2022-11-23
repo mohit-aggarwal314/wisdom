@@ -16,7 +16,7 @@ include 'header.php';
         <h5 class="admissiontextsub">FOR MORE INFORMATION, PLEASE CONTACT THE ADMISSION DEPARTMENT.</h5>
       </div>
       <div class="col-lg-6">
-        <img src="img/admissionimg.jpg" class="admissimg" alt="">
+        <img src="img/admission.jpg" class="admissimg" alt="">
       </div>
     </div>
   </div>

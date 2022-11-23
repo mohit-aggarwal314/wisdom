@@ -13,7 +13,7 @@ include 'header.php';
   <div class="container">
     <div class="row">
       <div class="col-lg-6 order-1">
-        <img src="img/acadmy1.jpg" class="aboutfirstimgs" alt="">
+        <img src="img/acadmic.jpg" class="aboutfirstimgs" alt="">
       </div>
       <div class="col-lg-6 order-2">
         <p class="aboutwisdompara pt-3">The administration of <strong>The Wisdom School</strong> is enriched with a community of teachers, students and administrative staff. Our teachers are passionate, highly qualified and recognized as leading educators in their respective fields. We recruit enthusiastic young people from diverse, multi-cultural backgrounds, learning and growing with international educational community. We are committed to providing high quality education that is important for all-round growth of students. <br> <br> Our teachers are committed at providing the best foundation for successful tertiary education to our students and acting as a catalyst in shaping a bright and sustainable future of our nation. Powered by a dynamic team and driven by a strong vision, our faculties bring the latest global educational practices to their classrooms.</p>

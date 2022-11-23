@@ -12,36 +12,17 @@ include 'header.php';
 <section class="photoGallery">
   <div class="container">
     <img src="img/1.jpg" class="photogallerytop" alt="">
-    <ul class="nav mt-5 unorde">
-      <li class="nav-item navName">
-        <a class="nav-link typesnavs" href="photo-gallery.php">All</a>
-      </li>
-      <li class="nav-item navName">
-        <a class="nav-link typesnavs" href="photo_Auditorium.php">Auditorium</a>
-      </li>
-      <li class="nav-item navName">
-        <a class="nav-link typesnavs" href="photo_School_Night_View.php">School Night View
-        </a>
-      </li>
-      <li class="nav-item navName">
-        <a class="nav-link typesnavs " href="photo_School_Day_View.php">School Day View</a>
-      </li>
-      <li class="nav-item navName">
-        <a class="nav-link typesnavs" href="photo_Sports_Hall.php">Sports Hall</a>
-      </li>
-      <li class="nav-item navName">
-        <a class="nav-link typesnavs" href="">Sports Hall</a>
-      </li>
-    </ul>
+    <h1 style="
+    text-align: center;">Some Memories</h1>
     <div class="card-deck deepgallery">
       <div class="card card-gallery">
-        <img class="card-img-top" src="img/2.jpg" alt="Card image cap">
+        <img class="card-img-top" src="img/child.jpeg" alt="Card image cap">
       </div>
       <div class="card card-gallery">
-        <img class="card-img-top" src="img/3.jpg" alt="Card image cap">
+        <img class="card-img-top" src="img/img2/2.jpg" alt="Card image cap">
       </div>
       <div class="card card-gallery">
-        <img class="card-img-top" src="img/4.jpg" alt="Card image cap">
+        <img class="card-img-top" src="img/img2/1.jpg" alt="Card image cap">
       </div>
       <div class="card card-gallery">
         <img class="card-img-top" src="img/5.jpg" alt="Card image cap">

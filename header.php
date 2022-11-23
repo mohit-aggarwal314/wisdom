@@ -31,7 +31,13 @@
     <link rel="stylesheet" href="css/owl.theme.min.css">
     <link rel="stylesheet" href="css/owl.transitions.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/glimpse.css">
+    <link rel="stylesheet" type="text/css" href="./css/lightbox.min.css">
+    <script src="./js/lightbox-plus-jquery.min.js" type="text/javascript"></script>
     <link rel="stylesheet" href="css/media.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap" rel="stylesheet">
     <title>Best School in Tarn Taran Punjab - The Wisdom School of Academics & Sports</title>
     <style type="text/css">
     </style>
@@ -39,6 +45,17 @@
 </head>
 
 <body>
+    <div id="popupmain" style="display: none;">
+        <div id="popup">
+            <h4 id="newdeading">For Admission enquiry </h4>
+            <input type="text" name="" id="name" placeholder="Enter your name">
+            <input type="tel" name="" id="name" placeholder="Enter phone no.">
+            <input type="email" name="" id="email" placeholder="Enter email id"><br>
+            <button class="submitid"> Submit </button>
+            <button class="submitid"> No Thanks </button>
+
+        </div>
+    </div>
     <section class="topnav">
         <div class="row" style="margin:0px;">
             <div class="col-lg-7 order-1">
@@ -144,3 +161,15 @@
 </div>
             </div>
         </nav>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+   $(document).ready(function(){
+    setTimeout(function(){
+        $('#popupmain').css('display', 'block'); }, 5000);
+   });
+
+   $('.submitid').click(function(){
+    $('#popupmain').css('display', 'none');
+   });
+</script>

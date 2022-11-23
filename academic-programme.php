@@ -52,7 +52,7 @@ include 'header.php';
         </ul>
       </div>
       <div class="col-lg-6">
-        <img src="img/programme1.jpg" class="acadmeprog" alt="">
+        <img src="img/acadmic2.jpg" class="acadmeprog" alt="">
       </div>
     </div>
   </div>

@@ -29,7 +29,7 @@ include 'header.php';
         <p class="aboutwisdompara pt-1">Our landmark position paper, The Successful Middle School: This We Believe, is recognized as the best articulation of the middle school concept. Since it was first published in 1982, middle school educators have relied on the text to build high-performing school communities using the 5 essential attributes and 18 Characteristics at the core of successful middle schools. The text has grown from a single document into a comprehensive program of tools and resources that educators, schools, and districts can adopt to help ensure student success. Find inspiration and build your own school-wide professional development plan through The Successful Middle School program.</p>
       </div>
       <div class="col-lg-6 order-2">
-        <img src="img/level2.jpg" class="aboutfirstimgs" alt="">
+        <img src="img/amle.jpg" class="aboutfirstimgs" alt="">
       </div>
     </div>
   </div>

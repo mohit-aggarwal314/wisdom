@@ -30,7 +30,7 @@ include 'header.php';
         </p>
       </div>
       <div class="col-lg-6">
-        <img src="img/board2.jpg" class="activityimg" alt="">
+        <img src="img/board.jpg" class="activityimg" alt="">
       </div>
     </div>
   </div>
